@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-50 text-gray-900;
+}
+
+
+.stage {
+  width: 720px;
+  height: 720px;
+  background-color: white;
+}
