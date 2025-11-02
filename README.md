@@ -231,11 +231,6 @@ Here are meaningful enhancements planned for future versions:
 
 This project is licensed under the **MIT License**. See the LICENSE file for full details.
 
-## 💬 Author & Credits
-
-**Developed in 2025** | Built by passionate developers committed to creating intuitive design tools
-
-For questions, issues, or feature requests, please open an issue on GitHub or contact the development team.
 
 ---
 
