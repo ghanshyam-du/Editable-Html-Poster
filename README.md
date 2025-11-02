@@ -24,7 +24,7 @@ A powerful, interactive web application for designing and editing HTML posters d
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/yourusername/Editable-HTML-Poster.git
+   git clone https://github.com/ghanshyam-du/Editable-Html-Poster
    cd Editable-HTML-Poster
    \`\`\`
 
@@ -168,7 +168,7 @@ High-level components depend on abstractions (contexts and hooks) rather than lo
 | **DOMPurify** | Latest | HTML sanitization to prevent XSS attacks |
 | **PostCSS** | Latest | CSS processing and transformation |
 
-## ⚡ How It Works
+
 
 ### Editing Flow
 
@@ -230,4 +230,4 @@ For questions, issues, or feature requests, please open an issue on GitHub or co
 
 ---
 
-**Happy Designing! 🎨**
+
