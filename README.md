@@ -4,6 +4,13 @@
 
 A powerful, interactive web application for designing and editing HTML posters directly in your browser. Built with modern web technologies, this tool provides a seamless visual editing experience with drag-and-drop functionality, real-time preview, and full HTML import/export capabilities.
 
+# Editable HTML Poster 🎨
+
+A web-based drag-and-drop poster editor built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+![Project Preview](public/pg.png)
+
+
 ## 🚀 Features
 
 - **Visual HTML Editing**: Edit HTML posters directly on a live canvas using an embedded iframe
